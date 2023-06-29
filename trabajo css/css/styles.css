@@ -1,0 +1,79 @@
+/* nueva clase */
+.alerta {
+  color: #72353D;
+  background-color: #EAD2D5;
+}
+
+
+
+}
+
+/* Estilos para el contenedor principal */
+#main {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Estilos para todas las etiquetas h3 */
+h3 {
+  color: blue;
+  text-align: center;
+}
+
+/* Estilos para el párrafo */
+p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Estilos para el enlace */
+a {
+  color: #0088cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+/* styles.css */
+
+/* Estilos para el contenedor principal */
+#main {
+  background-color: gray;
+  text-align: center;
+  margin: 30px;
+  padding: 30px;
+}
+
+/* Estilos para todas las etiquetas h3 */
+h3 {
+  color: blue;
+  text-align: center;
+}
+
+/* Estilos para el párrafo */
+p {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Estilos para el enlace */
+a {
+  color: #0088cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#otro {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+   text-align: center;
+
+}
