@@ -1,0 +1,73 @@
+.navbar-nav .nav-link{
+    color:beige;
+    background-color: coral;
+
+}
+
+.bgimage {
+    background: url('../img/spring.jpg');
+    background-size: cover;
+    position: relative;
+    height: 90vh;
+ }
+
+ .hero-text {
+    text-align:center;
+    position: absolute;
+    top:50%;
+    color:white;
+  }
+
+.hero_title {
+font-size: 4.5rem;
+background-color: rgba(0, 0, 0, 0.43);
+}
+
+.hero_descrip {
+    font-size: 2rem;
+    background-color: rgba(0, 0, 0, 0.43);
+}
+.iconStyle {
+    font-size: 60px;
+    text-align: center;
+    width: 50%;
+}
+#footer {
+    background-color: rgb(255, 127, 80);
+    height: 100px;
+    color: azure;
+}
+
+.social-icons {
+    padding-top: 40px;
+    }
+
+ .texto-foot {
+    padding-top: 40px;
+
+ }
+
+ /* Estilos del botón */
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #25D366;
+    color: #FFF;
+    padding: 10px 15px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Estilos del ícono de WhatsApp */
+  .whatsapp-button i {
+    margin-right: 5px;
+  }
+  
+  /* Estilos de hover (opcional) */
+  .whatsapp-button:hover {
+    background-color: #128C7E;
+  }
+  
